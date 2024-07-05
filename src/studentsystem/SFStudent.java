@@ -1,4 +1,4 @@
-//dung
+//dungq
 package studentsystem;
 
 import java.awt.Color;
